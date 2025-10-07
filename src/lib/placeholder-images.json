@@ -1,3 +1,40 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "logo-creative-co",
+      "description": "Logo for Creative Co.",
+      "imageUrl": "https://picsum.photos/seed/creativeco/140/40",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "logo-digital-dreams",
+      "description": "Logo for Digital Dreams",
+      "imageUrl": "https://picsum.photos/seed/digitaldreams/140/40",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "logo-solution-inc",
+      "description": "Logo for Solution Inc.",
+      "imageUrl": "https://picsum.photos/seed/solutioninc/140/40",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "logo-quantum-leap",
+      "description": "Logo for Quantum Leap",
+      "imageUrl": "https://picsum.photos/seed/quantumleap/140/40",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "avatar-jane-doe",
+      "description": "Avatar for Jane Doe",
+      "imageUrl": "https://picsum.photos/seed/janedoe/40/40",
+      "imageHint": "person face"
+    },
+    {
+      "id": "avatar-john-smith",
+      "description": "Avatar for John Smith",
+      "imageUrl": "https://picsum.photos/seed/johnsmith/40/40",
+      "imageHint": "person face"
+    }
+  ]
 }
